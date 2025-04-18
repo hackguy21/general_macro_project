@@ -25,3 +25,10 @@ Main 문
 출력하드웨어(아두이노 레오나르도)로 신호를 전달합니다.
 (4-2) Com_inside.py
 PyAutoGui API를 이용하여 키보드 신호를 직접 입력합니다.
+
+"""
+library는 requirement 참조
+
+opencv-python
+matplotlib
+pyautogui
