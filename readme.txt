@@ -3,7 +3,7 @@
 
 python 3.9 기준으로 개발
 
-Maplestory Macro Project - main.py
+General Macro Project - main.py
 
 이 스크립트는 다음 단계를 순서대로 수행합니다:
 1. 화면 인식 (recognize): PyAutoGUI 등을 활용해 게임 화면 캡쳐 후, 필요한 정보를 추출합니다.
